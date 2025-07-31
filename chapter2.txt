@@ -1,1 +1,6 @@
-“The Knights Radiant,” the Almighty said, standing up beside Dalinar, watching the knight attack the nightmare beast. “They were a solution, a way to offset the destruction of the Desolations. Ten orders of knights, founded with the purpose of helping men fight, then rebuild.”
+“The Magic Knights Radiant,” the Almighty said,
+ standing up beside Dalinar, watching the knight 
+ attack the nightmare beast. “They were a solution,
+  a way to offset the destruction of the Desolations.
+   Ten orders of knights, 
+founded with the purpose of helping men fight, then rebuild.”
